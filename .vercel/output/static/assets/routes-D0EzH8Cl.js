@@ -1,0 +1,1 @@
+import{t as e}from"./studio-D5PnbB00.js";import{o as t}from"./index-DX5BGjbC.js";var n=t();function r(){return(0,n.jsx)(e,{home:!0})}export{r as component};
